@@ -1,3 +1,10 @@
+NA Birds dataset Readme below in all of its glory.  I wrote the filter.py code and defined the filter.txt file.  
+Running that code will filter the image_class_labels, images, and the test_train_split files.  Each of the new
+files ends with "_filtered.txt".  Use those for training on a subset of the larger data set
+
+
+
+
 ===========================================
 The NABirds Dataset
 ===========================================
