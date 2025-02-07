@@ -1,0 +1,24 @@
+Species,class,images
+American Goldfinch Male, 794, 120
+American Goldfinch Female Juvenile, 1001, 120
+American Robin, 753, 119
+Baltimore Oriole Male, 786, 109
+Baltimore Oriole Female Juvenile, 993, 98
+Black-Capped Chickadee, 812, 96
+Blue Jay, 950, 120
+Brown-Headed Cowbird Male, 783, 120
+Brown-Headed Cowbird Female Juvenile, 990, 103
+Common Grackle, 912, 118
+Dark-Eyed Junco Male Female, 746, 120
+House Finch Male,  790, 120
+House Finch Female Juvenile, 997, 112
+House Sparrow Male, 796, 119
+House Sparrow Female, 1003, 117
+Mourning Dove, 529, 120
+Purple Finch Male, 788, 103
+Purple Finch Female Juvenile, 995, 91
+Northern Cardinal Male, 772, 120
+Northern Cardinal Female Juvenile, 979, 120,
+Rose-Breasted Grosbeak Male, 773, 120
+Rose-Breasted Grosbeak Female Juvenile, 980, 101
+Song Sparrow, 902, 120
