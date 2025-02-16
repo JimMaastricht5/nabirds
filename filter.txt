@@ -9,7 +9,7 @@ Blue Jay, 950, 120
 Brown-Headed Cowbird Male, 783, 120
 Brown-Headed Cowbird Female Juvenile, 990, 103
 Common Grackle, 912, 118
-Dark-Eyed Junco Male Female, 746, 120
+Dark-Eyed Junco, 746, 120
 Downy Woodpecker, 559, 120
 House Finch Male,  790, 120
 House Finch Female Juvenile, 997, 112
