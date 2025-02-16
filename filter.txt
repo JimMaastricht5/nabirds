@@ -19,7 +19,7 @@ Mourning Dove, 529, 120
 Purple Finch Male, 788, 103
 Purple Finch Female Juvenile, 995, 91
 Northern Cardinal Male, 772, 120
-Northern Cardinal Female Juvenile, 979, 120,
+Northern Cardinal Female Juvenile, 979, 120
 Red-Bellied Woodpecker, 553, 120
 Rose-Breasted Grosbeak Male, 773, 120
 Rose-Breasted Grosbeak Female Juvenile, 980, 101
